@@ -1,9 +1,3 @@
-# Light Mode
-![Dashboard screenshot](https://raw.githubusercontent.com/wsnh2022/Power-BI-Dashboard/main/Shopping%20Trends%20And%20Customer%20Behaviour%20Dataset/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2010.0.png)
-
-# Dark Mode
-![Dashboard screenshot](https://raw.githubusercontent.com/wsnh2022/Power-BI-Dashboard/main/Shopping%20Trends%20And%20Customer%20Behaviour%20Dataset/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2011.0.png)
-
 ## Dashboard Project Findings  
 “US Customer Shopping Behavior dashboard shows: $233.1K total revenue, $59.76 average order value, and 43% promo-code usage.” 
   
@@ -25,3 +19,8 @@
 • Create youth-focused offers to boost under-20 engagement  
 • Increase subscription sign-ups with a welcome discount
 
+# Light Mode
+![Dashboard screenshot](https://raw.githubusercontent.com/wsnh2022/Power-BI-Dashboard/main/Shopping%20Trends%20And%20Customer%20Behaviour%20Dataset/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2010.0.png)
+
+# Dark Mode
+![Dashboard screenshot](https://raw.githubusercontent.com/wsnh2022/Power-BI-Dashboard/main/Shopping%20Trends%20And%20Customer%20Behaviour%20Dataset/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2011.0.png)
