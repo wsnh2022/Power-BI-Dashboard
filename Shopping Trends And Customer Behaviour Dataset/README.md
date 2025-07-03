@@ -18,3 +18,4 @@
 • Create youth-focused offers to boost under-20 engagement  
 • Increase subscription sign-ups with a welcome discount
 
+![Dashboard screenshot](https://raw.githubusercontent.com/wsnh2022/Power-BI-Dashboard/main/Shopping%20Trends%20And%20Customer%20Behaviour%20Dataset/U.S%20Customer%20Shopping%20Behavior%20Dashboard%2010.0.png)
